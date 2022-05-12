@@ -1,0 +1,28 @@
+{
+    "words": [
+        {
+            "word1" : ["Motor","ENGINE"],
+            "word2" : ["Teşekkürler","THANKS"],
+            "word3" : ["Dur","STOP"], 
+            "word4" : ["Bilgisayar","COMPUTER"], 
+            "word5" : ["İnatçı","STUBBORN"], 
+            "word6" : ["Elma","APPLE"]
+        },
+        {
+            "word1" : ["Kabul Etmek","ACCEPT"],
+            "word2" : ["Üretim","PRODUCTION"],
+            "word3" : ["Ev","HOUSE"], 
+            "word4" : ["Araba","CAR"], 
+            "word5" : ["Kolay","EASY"], 
+            "word6" : ["Miktar","QUANTITY"]
+        },
+	{
+            "word1" : ["Aşk","LOVE"],
+            "word2" : ["Beğenmek","LIKE"],
+            "word3" : ["İsim","NAME"], 
+            "word4" : ["Kılıç","SWORD"], 
+            "word5" : ["Şövalye","KNIGHT"], 
+            "word6" : ["Kalite","QUALITY"]
+        }
+    ]
+}
